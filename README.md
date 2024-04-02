@@ -2,6 +2,6 @@
 
 ```HTML , css,Javascript``` 
 
-##deployed URL
+###  deployed URL
 
 [Netlify](https://task-12-api-dictionary.netlify.app/)

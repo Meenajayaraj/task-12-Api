@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+.container-fluid {
+    top: 0;
+    font-family: fantasy;
+    background: yellow;
+    border: 10cm;
+    border-radius: 3cm;
+    font-weight: 100;
+}
+
+.input {
+    top: 60px;
+}
+
+.meaning {
+    margin-top: 50px;
+    background-color: white;
+    border: 2px ridge black;
+    box-sizing: border-box;
+    font-weight: bolder;
+}
+
+span {
+    margin: 0;
+    padding: 0;
+    color: red;
+    font-weight: bolder;
+}
+
+.pTag {
+    font-weight: bolder;
+}
+
+button {
+    background-color: pink;
+    color: black;
+    font-weight: bolder;
+}
+
+button:hover {
+    color: black;
+    background-color: purple;
+}
